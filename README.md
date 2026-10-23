@@ -1,2 +1,1 @@
-# toko-roblox-rehan-v3
-Auto buy otomatis
+Toko Akun Rehan. Admin: raeyhanwijaya77@gmail.com (ganti password di /admin).
